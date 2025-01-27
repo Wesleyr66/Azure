@@ -1,0 +1,69 @@
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Dependências do Node.js
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de builds
+/dist/
+/build/
+/out/
+/coverage/
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de ambiente e credenciais
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+
+# Arquivos do sistema
+*.lock
+*.bak
+*.tmp
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de banco de dados e backup
+*.sqlite
+*.db
+*.sql
+*.dump
+*.bak
+
+# Arquivos de configuração temporária
+*.iml
+*.log
+*.gz
+*.zip
+*.tgz
+*.tar
+
+# Ignorar todos os arquivos gerados no caminho Exercicios/Blob/.env
+Exercicios/Blob/.env
