@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "laboratorio": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7285",
+      "launchBrowser": false
+    }
+  }
+}
